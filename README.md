@@ -1,6 +1,6 @@
 # react-native-poc-module
 
-This is the description of the POC Module
+This project tests the ability to expose Native Android and iOS APIs to React Native.
 
 ## Installation
 
